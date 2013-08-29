@@ -1,0 +1,33 @@
+.container {
+  margin: 0 auto;  
+  width: 720px;
+}
+
+nav {
+  float: right;
+  width: 100px;
+  padding-left: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.content h2 {
+  margin-top: 0px;
+}
+
+.content {
+  float: left;
+  width: 579px;
+  padding-right: 20px;
+  border-right: 1px dotted;
+}
+
+.footer {
+  clear: both;
+  border-top: 1px dotted;
+  padding: 20px 0px 20px 0px;
+}
