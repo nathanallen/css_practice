@@ -3,6 +3,7 @@
   width: 720px;
 }
 
+
 li {
   list-style-type: none;
   display: inline-block;
@@ -11,6 +12,11 @@ li {
 
 nav {
   border-top: 1px solid;
+}
+
+nav ul {
+  padding-left: 0px;
+  padding-bottom: 0px;
 }
 
 .content {
